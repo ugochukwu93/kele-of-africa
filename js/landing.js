@@ -35,7 +35,7 @@
 //       backDelay: 2000
 //     });
 //   }
-let images = ["./img/steven at dstv.jpg",'./img/steven suit.jpg'];
+let images = ["steven at dstv.jpg",'steven suit.jpg'];
 let input = document.getElementById('img-input');
 let button = document.getElementById("btn")
 let step = 1;
